@@ -1,7 +1,5 @@
-# titel
+# Git practice
 
-## subtitel
+## how to use git
 
-list
-- item 1
-- item 2
+This repository is designed to help you practice using Git. It contains various files and directories that you can use to experiment with Git commands and workflows.
